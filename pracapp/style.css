@@ -1,0 +1,10 @@
+.header {
+  color: bisque;
+  font-style: oblique;
+}
+.headerlink {
+  text-decoration: none;
+}
+body {
+  background-color: grey;
+}
